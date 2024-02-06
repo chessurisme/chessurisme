@@ -4,6 +4,8 @@ I am a self-taught programmer fueled by passion for web development.
 
 Though I first started learning HTML, CSS, and JavaScript in 2018, my study was inconsistent until diving back in more fully in 2022. 
 
+I had explored other languages like C, Java, and C++ in 2020 and 2021 before shifting focus to web development. 
+
 Eager to push boundaries, I thrive on learning new technologies that can make ideas come alive on the web. 
 
 My dedication now drives me to craft engaging user experiences paired with powerful functionality. I love coding solutions that are as sleek as they are practical. This journey has let me work toward mastering translating visions into reality with web technology.
