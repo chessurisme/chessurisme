@@ -2,15 +2,8 @@
 
 # Hello, I am Kyle Angelo Galendez, <br>Also Chessurisme <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="18" height="18" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="25" height="25" />
 
-I am a self-taught programmer fueled by passion for web development. 
-
-Though I first started learning <b style='color:#E44D26'>HTML,</b> <b style='color:#264DE4'>CSS,</b> and <b style='color:#F7DF1E'>JavaScript</b> in 2018, my study was inconsistent until diving back in more fully in 2022. 
-
-I had explored other languages like <b style='color:#999999'>C,</b> <b style='color:#66B2B2'>Java,</b> and <b style='color:#66B2FF'>C++</b> in 2020 and 2021 before shifting focus to web development. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />
-
-Eager to push boundaries, I thrive on learning new technologies that can make ideas come alive on the web. 
-
-My dedication now drives me to craft engaging user experiences paired with powerful functionality. I love coding solutions that are as sleek as they are practical. This journey has let me work toward mastering translating visions into reality with web technology.
+Self-taught web developer passionate about coding. Started with HTML, CSS, and JavaScript in 2018, but got serious in 2022. Explored C, Java, and C++ in 2020 and 2021 before focusing on web development. Love learning new tech to create engaging websites. Dedicated to crafting sleek, practical solutions.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />
 
 ## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" />
 
