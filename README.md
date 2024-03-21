@@ -1,8 +1,8 @@
-<img src='./brad-switzer.jpg' alt='Cover Photo'>
+<img src='./code.png' alt='Cover Photo'>
 
 # Hello, I am Kyle Angelo Galendez, <br>Also Chessurisme <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="18" height="18" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="25" height="25" />
 
-Self-taught web developer passionate about coding. Started with HTML, CSS, and JavaScript in 2018, but got serious in 2022. Explored C, Java, and C++ in 2020 and 2021 before focusing on web development. Love learning new tech to create engaging websites. Dedicated to crafting sleek, practical solutions.
+Self-taught web developer passionate about coding. Started with HTML, CSS, and JavaScript in 2018, but got serious in 2022. Explored C, Java, Lua, and C++ in 2020 and 2021 before focusing on web development. Love creating engaging web applications. 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />
 
 ## Skills <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" />
