@@ -1,4 +1,13 @@
-<img src='./code.png' alt='Cover Photo'>
+```js
+function initialize(){
+  const name = 'Chessur'
+  const suffix = 'isme'
+
+  console.log(`${name}${suffix}`)
+}
+
+initialize()
+```
 
 # Hello, I am Kyle Angelo Galendez, <br>Also Chessurisme <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="18" height="18" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="25" height="25" />
 
