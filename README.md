@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Quiz Manager](https://github.com/free-bird-operation-project/quiz-manager)
 
-- 🤝 I’m looking for help with [Wences](https://www.npmjs.com/package/wences)
+- 🤝 I’m looking for help with [Wences](https://www.npmjs.com/package/wences) and [Reign](https://www.npmjs.com/package/reign-idb)
 
 - 💬 Ask me about **vanilla javascript**
 
